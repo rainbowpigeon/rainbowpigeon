@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! I'm rainbowpigeon 👋
+
+![rainbowpigeon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rainbowpigeon&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+
+![rainbowpigeon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rainbowpigeon&theme=radical&layout=compact)
 
 <!--
 **rainbowpigeon/rainbowpigeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
