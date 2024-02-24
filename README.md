@@ -1,7 +1,5 @@
 ### Hi! I'm rainbowpigeon 👋
 
-![rainbowpigeon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rainbowpigeon&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
-
 ![rainbowpigeon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rainbowpigeon&theme=radical&layout=compact)
 
 <!--
